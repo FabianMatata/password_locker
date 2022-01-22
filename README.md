@@ -29,5 +29,26 @@ The application requires the following installations to operate:
 <li>code . or atom . based on the editor you are using.</li>
 </ul>
 
+## Running the Application
+To run the application, open the cloned file in terminal and run the commands below:
+  $ chmod +x interface.py
+  $ ./interface.py
+
+To run test the application: $python3 test.py  
+
+## Technologies Used
+python3.6
+
+## Known Bugs
+All bugs that arised were solved.
+
+## Contact Information
+If you have any question or contributions, reach out at mfabian601@gmail.com
+
+## License
+<ul>
+<li>MIT License:</li>
+<li>Copyright (C) 2021 Fabian Matata</li>
+<ul>
 
 
