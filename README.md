@@ -13,6 +13,9 @@ The user would like to:
 <li>Delete stored account login details that I nolonger need.</li>
 <li>Copy my credentials to the clipboard.</li>
 </ul>
+
+## Installation / Setup Instructions
+
 ## Specifications
 ## Behaviour,Input& Output
 - Display codes for navigation  In terminal: $./password_locker.py  Welcome, choose an option: ca-Create Account, li-Log In, ex-Exit
@@ -24,6 +27,22 @@ The user would like to:
 - Display prompt for which credential to copy Enter: copy Enter the site name of the credential you wish to copy.
 - Exit application  Enter: ex Exit the current navigation stage
 ## SetUp / Installation Requirements
+The application requires the following installations to operate:
+<ul>
+<li>python3.6</li>
+<li>pip</li>
+</ul>
+
+## Cloning
+<ul>
+<li>Open Terminal {Ctrl+Alt+T}</li>
+<li>Git clone https://github.com/FabianMatata/password_locker</li>
+<li>cd password_locker</li>
+<li>code . or atom . based on the editor you are using.</li>
+</ul>
+
+## Running the Application
+
 - Prerequisites
 - python3.6
 - pip
