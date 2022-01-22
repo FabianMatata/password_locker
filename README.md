@@ -48,7 +48,7 @@ If you have any question or contributions, reach out at mfabian601@gmail.com
 ## License
 <ul>
 <li>MIT License:</li>
-<li>Copyright (C) 2021 Fabian Matata</li>
+<li>Copyright (c) 2021 Fabian Matata</li>
 <ul>
 
 
