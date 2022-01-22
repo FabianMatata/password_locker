@@ -1,14 +1,18 @@
-## Password-Locker
-## Built By John Opana
+## Author
+Fabian Matata
+
 ## Description
-- Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts.
+Password_locker is a python application that helps the user manage password of various accounts and also helps the user generate new passwords.
+
 ## User Stories
-- These are the behaviours/features that the application implements for use by a user.
-- As a user I would like:
-- To create an account with my details - log in and password
-- Store my existing login credentials
-- Generate a password for a new credential/account
-- Copy my credentials to the clipboard
+The user would like to:
+<ul>
+<li>To create aan acccount for the application or log into the application.</li>
+<li>Store existing accounts login credentials for the various accounts.</li>
+<li>Generate new password for unregistered account and store it with the account name.</li>
+<li>Delete stored account login details that I nolonger need.</li>
+<li>Copy my credentials to the clipboard.</li>
+</ul>
 ## Specifications
 ## Behaviour,Input& Output
 - Display codes for navigation  In terminal: $./password_locker.py  Welcome, choose an option: ca-Create Account, li-Log In, ex-Exit
